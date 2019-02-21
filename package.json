@@ -1,0 +1,21 @@
+{
+    "name": "nicebots-dark-theme",
+    "displayName": "Nicebots Dark Theme",
+    "description": "For the long coding nights ...",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nicebots Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nicebots Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
