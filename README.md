@@ -1,5 +1,7 @@
 # nb-dark-theme
 Nicebots dark theme for VS Code
+===============================
+A relaxing theme for die-hard "night owl" C/C++ coders ...
 
 Here are some useful editor keyboard shortcuts:
 

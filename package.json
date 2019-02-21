@@ -1,7 +1,7 @@
 {
     "name": "nicebots-dark-theme",
-    "displayName": "Nicebots Dark Theme",
-    "description": "For the long coding nights ...",
+    "displayName": "Nicebots Dark",
+    "description": "A relaxing theme for die-hard \"night owl\" C/C++ coders ...",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.31.0"
@@ -14,8 +14,18 @@
             {
                 "label": "Nicebots Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Nicebots Dark Theme-color-theme.json"
+                "path": "./themes/Nicebots Dark-color-theme.json"
             }
         ]
-    }
+    },
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/casanovg/nb-dark-theme.git"
+	},
+	"icon": "nicebots-logo.png",
+	"__metadata": {
+		//"id": "356c946f-96b0-41f2-939c-0e2dae5b7a56",
+		//"publisherId": "149bf34c-a8f4-427b-9fb3-5089a0d7d0c6",
+		"publisherDisplayName": "Gustavo Casanova"
+	}    
 }
