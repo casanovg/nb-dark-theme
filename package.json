@@ -17,13 +17,5 @@
                 "path": "./themes/nicebots-dark.color-theme.json"
             }
         ]
-    },
-	"repository": {
-		"type": "github",
-		"url": "https://github.com/casanovg/nb-dark-theme.git"
-	},
-	"icon": "nicebots-logo.png",
-	"__metadata": {
-		"publisherDisplayName": "Gustavo Casanova"
-	}    
+    }  
 }

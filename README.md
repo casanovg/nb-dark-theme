@@ -1,4 +1,4 @@
-# nb-dark-theme
+### nb-dark-theme
 Nicebots dark theme for VS Code
 ===============================
 A relaxing theme for die-hard "night owl" C/C++ coders ...
@@ -10,7 +10,6 @@ Here are some useful editor keyboard shortcuts:
 * Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
 ### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
