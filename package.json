@@ -1,5 +1,5 @@
 {
-    "name": "nicebots-dark-theme",
+    "name": "nicebots-dark",
     "displayName": "Nicebots Dark",
     "description": "A relaxing theme for die-hard \"night owl\" C/C++ coders ...",
     "version": "0.0.1",
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nicebots Dark Theme",
+                "label": "Nicebots Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Nicebots Dark-color-theme.json"
+                "path": "./themes/nicebots-dark.color-theme.json"
             }
         ]
     },
